@@ -52,12 +52,6 @@
 ### Auther
 ```
 ```
-RidwanKyt :<a href="https://t.me/Kytxz" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-```
-```
-###IZIN SCRIPT
-```
-```
-Izin Sc PM ane aja :<a href="https://t.me/Kytxz" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+wings :<a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
