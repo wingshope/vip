@@ -2,7 +2,7 @@
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/vip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
-### PERINTAH UPDATE 
+### PERINTAH UPDATE SC
 <pre><code>wget https://raw.githubusercontent.com/wingshope/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
