@@ -1,5 +1,3 @@
-
-
 ### INSTALL SCRIPT 
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/vip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
@@ -55,3 +53,4 @@
 wings :<a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
+![IMG_20231017_124954](https://github.com/wingshope/vip/assets/138878860/397c03ff-a3ea-481b-b546-f3e790c125db)
